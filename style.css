@@ -80,7 +80,7 @@ a {
 .yellow {
     display: flex;
     justify-content: center;
-    background: #224162
+    background-color: #224162;
 }
 
 .zone {
